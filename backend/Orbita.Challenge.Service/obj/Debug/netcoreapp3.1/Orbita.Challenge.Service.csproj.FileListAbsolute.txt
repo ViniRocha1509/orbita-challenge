@@ -1,0 +1,15 @@
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\bin\Debug\netcoreapp3.1\Orbita.Challenge.Service.deps.json
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\bin\Debug\netcoreapp3.1\Orbita.Challenge.Service.dll
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\bin\Debug\netcoreapp3.1\Orbita.Challenge.Service.pdb
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\obj\Debug\netcoreapp3.1\Orbita.Challenge.Service.csproj.AssemblyReference.cache
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\obj\Debug\netcoreapp3.1\Orbita.Challenge.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\obj\Debug\netcoreapp3.1\Orbita.Challenge.Service.AssemblyInfoInputs.cache
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\obj\Debug\netcoreapp3.1\Orbita.Challenge.Service.AssemblyInfo.cs
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\obj\Debug\netcoreapp3.1\Orbita.Challenge.Service.csproj.CoreCompileInputs.cache
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\obj\Debug\netcoreapp3.1\Orbita.Challenge.Service.dll
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\obj\Debug\netcoreapp3.1\Orbita.Challenge.Service.pdb
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\bin\Debug\netcoreapp3.1\Orbita.Challenge.Core.dll
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\bin\Debug\netcoreapp3.1\Orbita.Challenge.Infra.dll
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\bin\Debug\netcoreapp3.1\Orbita.Challenge.Core.pdb
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\bin\Debug\netcoreapp3.1\Orbita.Challenge.Infra.pdb
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Service\obj\Debug\netcoreapp3.1\Orbita.Challenge.Service.csproj.CopyComplete

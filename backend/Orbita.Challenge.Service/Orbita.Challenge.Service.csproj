@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Orbita.Challenge.Core\Orbita.Challenge.Core.csproj" />
+    <ProjectReference Include="..\Orbita.Challenge.Infra\Orbita.Challenge.Infra.csproj" />
+  </ItemGroup>
+
 </Project>

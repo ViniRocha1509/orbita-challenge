@@ -1,0 +1,13 @@
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\obj\Debug\netcoreapp3.1\Orbita.Challenge.Infra.csproj.AssemblyReference.cache
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\obj\Debug\netcoreapp3.1\Orbita.Challenge.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\obj\Debug\netcoreapp3.1\Orbita.Challenge.Infra.AssemblyInfoInputs.cache
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\obj\Debug\netcoreapp3.1\Orbita.Challenge.Infra.AssemblyInfo.cs
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\obj\Debug\netcoreapp3.1\Orbita.Challenge.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\bin\Debug\netcoreapp3.1\Orbita.Challenge.Infra.deps.json
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\bin\Debug\netcoreapp3.1\Orbita.Challenge.Infra.dll
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\bin\Debug\netcoreapp3.1\Orbita.Challenge.Infra.pdb
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\bin\Debug\netcoreapp3.1\Orbita.Challenge.Core.dll
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\bin\Debug\netcoreapp3.1\Orbita.Challenge.Core.pdb
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\obj\Debug\netcoreapp3.1\Orbita.Challenge.Infra.csproj.CopyComplete
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\obj\Debug\netcoreapp3.1\Orbita.Challenge.Infra.dll
+C:\Users\ViniciusTcc\Desktop\orbita-challenge\backend\Orbita.Challenge.Infra\obj\Debug\netcoreapp3.1\Orbita.Challenge.Infra.pdb
